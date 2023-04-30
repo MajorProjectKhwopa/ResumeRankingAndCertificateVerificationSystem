@@ -1,0 +1,56 @@
+Element6's client is looking for a software developer with 4 years of experience to join their Mequon, Wisconsin's based team.
+
+What are important things YOU need to know about this role?
+
+Hybrid Work Flexibility - candidates must be in person at our Mequon office for training (approx. 3 months). Hybrid opportunities exist for the right candidate following all onsite training
+Must have at least two years of Software Development Experience
+What will YOU be doing? To author and maintain software applications of varying complexities and on varying tech stacks - in the healthcare space.
+
+What will YOU be working on everyday?
+
+Assist level 4 and lead engineers to develop, modify and maintain software applications for internal and external client use. Provide first level support on common operational concerns
+Work collaboratively with internal resources to assess and understand technical specifications and business requirements for new systems.
+Maintain current modules, applications or processes in production.
+Actively participate on an Agile scrum team, sizing work efforts and decomposing functionality and iteratively delivering value.
+Unit test development
+Follow directives from project mentor (senior engineer, project architect, etc.).
+Triage production issues and affect solutions
+Code spelunking
+Perform software design and coding according to our organization and accepted secure coding patterns
+Work collaboratively with internal team members on investigating and fixing defects
+Act as the first level of operational triage support as necessary.
+What YOU need to be a Good Candidate:
+
+Required Level of Education
+Bachelor’s degree in Computer Science or other related field or equivalent years of experience or equivalent certification
+Required Level of Experience
+Typically 2 to 4 years of experience in software development.
+Required Knowledge, Skills, and Abilities such as but not limited to:
+Knowledge and proficiency in various technical areas:
+Object Oriented Design
+ASP.NET Web Form Development
+ASP.NET MVC Development
+.Net Core
+API
+C#
+JavaScript
+Secure coding patterns
+Visual Studio 2019
+SQL Server 2014 or any Relational DB
+Strong problem solving skills
+Ability to work effectively with a variety of individuals and communication styles
+Ability to effectively communicate technical concepts to others
+Knowledge of software design and development techniques
+What YOU need to be a GREAT Candidate:
+
+Preferred Knowledge, Skills, and Abilities
+Programming languages (C#)
+Knowledge of Agile methodologies
+Knowledge and proficiency in:
+HTML5
+CSS
+Bootstrap
+Typescript
+Angular JS
+Angular 7+
+Agile Development Methodology
